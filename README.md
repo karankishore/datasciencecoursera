@@ -1,2 +1,2 @@
 # datasciencecoursera
-Reository for Data Science Coursera assignments
+Repository for Data Science Coursera assignments
